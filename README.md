@@ -1,8 +1,8 @@
-Hi, I’m @jinal
-👀 I’m interested in coding, cloud computing, and web development
-🌱 I’m currently learning web design and WordPress development
-💞️ I’m looking to collaborate with other developers and designers
-📫 You can reach me at https://jinalsweb.site/
+- Hi, I’m @jinal
+- 👀 I’m interested in coding, cloud computing, and web development
+- 🌱 I’m currently learning web design and WordPress development
+- 💞️ I’m looking to collaborate with other developers and designers
+- 📫 You can reach me at https://jinalsweb.site/
 
 
 
